@@ -1,9 +1,11 @@
 {
  "cells": [
   {
-   "cell_type": "raw",
-   "id": "1c68463f-41aa-4ba9-9a00-684819bb8c0c",
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "927c64f5-f850-488d-9acd-4ab04f0271a6",
    "metadata": {},
+   "outputs": [],
    "source": [
     "import sympy as sym\n",
     "from IPython.display import display,Math\n",
