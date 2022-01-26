@@ -1,11 +1,26 @@
 {
  "cells": [
   {
-   "cell_type": "markdown",
-   "id": "7f3c9082",
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "b254da1e-68fa-4b8e-985e-86848f4ee66a",
    "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/latex": [
+       "$\\displaystyle X^{Y}$"
+      ],
+      "text/plain": [
+       "X**Y"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
    "source": [
-    "# import sympy as sym\n",
+    "import sympy as sym\n",
     "from IPython.display import display,Math\n",
     "\n",
     "x = sym.symbols(\"X\")\n",
