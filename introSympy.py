@@ -2,10 +2,10 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "60d76918",
+   "id": "7f3c9082",
    "metadata": {},
    "source": [
-    "import sympy as sym\n",
+    "# import sympy as sym\n",
     "from IPython.display import display,Math\n",
     "\n",
     "x = sym.symbols(\"X\")\n",
