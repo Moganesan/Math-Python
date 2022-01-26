@@ -1,24 +1,9 @@
 {
  "cells": [
   {
-   "cell_type": "code",
-   "execution_count": 1,
-   "id": "b254da1e-68fa-4b8e-985e-86848f4ee66a",
+   "cell_type": "raw",
+   "id": "1c68463f-41aa-4ba9-9a00-684819bb8c0c",
    "metadata": {},
-   "outputs": [
-    {
-     "data": {
-      "text/latex": [
-       "$\\displaystyle X^{Y}$"
-      ],
-      "text/plain": [
-       "X**Y"
-      ]
-     },
-     "metadata": {},
-     "output_type": "display_data"
-    }
-   ],
    "source": [
     "import sympy as sym\n",
     "from IPython.display import display,Math\n",
